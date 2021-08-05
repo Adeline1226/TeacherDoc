@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-image: url('background.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: cover;
+}
+th {
+  margin-left}
+th {
+  padding: 5px;
+  text-align: left;
+}
+
+</style>
+<title>TeacherDoc</title>
+</head>
+<body>
+<div style="background-color:rgb(7, 0, 31);width:1350px;height:137px;">
+<table style="width:100%;font-size: 25px;"> 
+<tr style="color:white;">
+<th><img src="logodark.PNG" style="width:190px;height:128px;"></th>
+    <th>Home</th>
+    <th>Contact</th>
+    <th>Courses</th>
+	<th>Help</th>
+  </tr>
+</table>
+</div>
+<div style="background-color:rgb(0, 0, 0);width:1350px;height:310px;margin-top:400px;">
+<table>
+<tr><img src="logoblack.PNG" style="width:190px;height:128px;float:left";></tr>
+<tr><p style="color:white;font-size: 18px;margin-left:400px;">Home <br><br>
+Contact <br><br>
+Courses <br><br>
+Help</p></tr>
+<tr><p style="color:white;font-size: 18px;float:right;">
+Case study : Rwanda <br>
+Developer : Adeline Umutoni <br>
+Developed in 2021 <br>
+Aiming at Improving teaching/Learning process <br>
+vision: Improving Quality Education in Rwanda.<br>
+mission: Making teaching process easy through using this website.
+</p></tr>
+</table>
+</div>
+
+
+</body>
+</html>
+</html>
